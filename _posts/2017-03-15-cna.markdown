@@ -1,0 +1,68 @@
+---
+layout: post
+author: Amadou Fofana
+title:  "Cinema, CNA, and Identity Politics in West Africa"
+date:   2017-03-10 14:34:25
+<!---categories: mediator feature -->
+<!--- tags: featured -->
+image: /assets/article_images/2017-03-15-cna/BET_ad.png
+author_image: /assets/article_images/2017-03-15-cna/fofana.jpg
+---
+#Presence of Cinema in West Africa
+<div id="map"></div>
+
+<ul class="info-box-1">
+	<h3 id="country-name"></h3>
+    <li>
+      <span id="comacico-count"></span>
+    </li>
+     <li>
+      <span id="secma-count"></span>
+    </li>
+   	<li>
+   	  <span id="cna-count"></span> 
+   	</li>  
+</ul> 
+
+><strong>Instructions:</strong> Hover over each country for information about numbers of historical cinema and CNA showings. Click the three text links above to see how cinema is distributed throughout West Africa by each "distribution company".
+
+##A Short History of West African Cinema
+
+The history of West African cinema is rooted in the tradition of ethnographic representation of Africans and their cultures by Europeans. From the moment sound came to film (around 1927), the French, wary of its influential power, proactively took measures to control film production in their colonies. In 1934, then governor of the colonies, Pierre Laval, issued a decree requiring filmmakers to get French government’s approval prior to shooting films in the colonies and banning Africans from making films about themselves. The long term effects of this decree are best quantified by film historian Georges Sadoul. 
+
+> In 1960, sixty-five years after the invention of motion pictures, there hasn't been, to my knowledge, a single feature film that is truly African; I mean a film that stars Africans, is cinematographed, written, directed, edited, etc., by blacks, and speaking, of course, an African language. Thus, two hundred million men have been denied the use of this most advanced of modern arts.<sup>1</sup>
+
+Sadoul believed this "scandoulous situation" would soon correct itself and become but "a bad memory". Yet despite the majority of the French African colonies gaining independence by 1960, and thus freeing filmakers from the paralyzing constraints of the Laval decree, feature films by Africans remained rare. Though freed from the colonial government policy that forbade their production, African feature films were now at the mercy of other French controls. Because local governments never made investing in cinema a priority and the French government, being so conscious of the persuasive power of the moving image, did, African filmmakers were forced to rely heavily on financial assistance from the French Ministry of Cooperation. And even if African filmakers could drum up the resources to produce their movies, distribution and exhibition remained the exclusive monopoly of two French companies, SECMA and COMACICO, that were too focused on their own fierce competiton over building movie theatres in urban areas across French-speaking West Africa to consider the circulation of works by African filmakers.
+
+Throughout the sixties and early seventies, distribution and exhibition of cinema in French-speaking West Africa remained the monopoly of SECMA and COMACICO. As the control of these companies grew their desire for profits began to place an implict ban on films being produced by Africans. In the eyes of SECMA and COMACICO, African films weren't shown in their cinemas because theater-goers did not like them and, thus, they would not make money off of them. This hunger for money is what lead to some of the first real positive changes for African filmakers. On a holiday evening in 1969, SECMA and COMACICO unilaterally decided to jack up the entrance fees in the Upper Volta (now Burkina Faso) cinemas that led to a major disagreement with the government and the eventual nationalization of all theatres in the country. Emboldened by the move of the Upper Volta government, filmmakers in other Francophone countries increased pressure on their government to follow the Upper Volta model, and they did. In Senegal, for instance, a national society called SIDEC replaced the French companies and expanded theatres to most secondary cities throughout the country. By 1975 Senegal had over 75 operational theatres nationwide with variable seating capacities. SIDEC became a major player in the economy in terms of income generation, and on a good year, it was second only to the Dakar international port.
+
+Yet these acts to seize control of cinemas were not purely driven by economics. Slowly, African intellectuals and politicians began to see the power of cinema to create a national identity. 1969 was also the year The Pan African Federation of Filmmakers (FEPACI) was created. FEPACI's focus was on the promotion of African film industries though improved production, distribution, and exhibition resources. The federation concerned itself with the role of film in the politico-economic and cultural development of African states and the continent as a whole. From its inception, FEPACI emerged as a critical organization to the continental Organization of African Unity, now the AU, and played a large part in developing a new African identity in the Westernized world.
+
+However, these developments were shortlived. The implementation of the Structural Adjustment Programs mandated by the International Monetary Fund and the World Bank in the early 1980s forced heavily indebted governments, formerly referred to as the Third World, to privatize education, health, and culture (including cinema). This led to the immediate liquidation of SIDEC and sale of most theatres throughout West Africa to private entrepreneurs who had no vested interest in cinema and quickly transformed them into warehouses, shopping centers, and places of worship. By the mid-80s, there were almost no theatres left in West Africa. Although African filmakers could still make movies, granted they were able scronge up the money, these films could only be seen at festivals, which were often outside the filmaker's country and inaccessible to their countrymen and provided little economic or cultural benefit to Africans.
+
+##Enter Cinema Numerique Ambulant
+
+-------------------------------------
+
+<sup>1</sup> Sadoul, Georges. 1961. “Le marche Africain,” Afrique Action, Tunis, May 1, 1961. Accounts of the history of cinema in Africa usually mention two productions as signals for the beginning of black African cinema. Mouramani (1953) is a little known and seldom seen documentary film made by Mamadou Touré, a filmmaker from Guinea about a cultural event in Guinea and was not commercially released and currently nowhere to be found.  In 1955, an association called “Groupe Africain du Cinema” based in France and comprised of two Senegalese, Mamadou Sarr and Jacques Mallo Kane, one Dahomean (actual Benin) Paulin Soumanou Vieyra, and one Caribbean, Robert Caristan, made Afrique-sur-Seine. The film was shot in Paris, directed by the four men, and describes the experience of blacks in France and their nostalgic relationship with home (Africa), this film was not commercially distributed and may probably be found in film archives in France. 
+
+
+##orderd lists
+1. one
+2. two
+3. three
+
+##unorderd lists
+- Apple
+- Banana
+- Plum
+
+#Links
+This is an [example link](http://example.com/ "With a Title").
+
+#Combinations
+>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus
+>
+> - Apple
+> - Banana
+> - Plum
