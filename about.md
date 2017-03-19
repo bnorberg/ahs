@@ -3,15 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
+Alt-Humanities Scholarship is a blog promoting the collaborative, digital work between Trinity Technology Technology Services (TTS) and Humanities faculty at Duke University. Beyond offering technical infrastructure and consulting for digital research projects, TTS provides support for data collection and analysis, as well as providing access to software needed to do digital projects in the classroom . To find out more about the technical services TTS offers go to <a href="https://admin.trinity.duke.edu/technology/digital-humanities">https://admin.trinity.duke.edu/technology/digital-humanities</a>.
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
-
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
-
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+TTS is one of many units engaged in digital research in the Humanities and is part of the larger <a href="http://digitalhumanities.duke.edu/">Digital Humanities Initiative</a> at Duke. Check out the DHI site to learn more about who is doing digital research in the Humanities, where this work is being done, and how to get involved yourself.

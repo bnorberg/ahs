@@ -11,7 +11,7 @@ var projection = d3.geo.albers()
 var path = d3.geo.path()
     .projection(projection);
 
-var svg = d3.select("#map").append("svg")
+var svg = d3.select("#mapone").append("svg")
     .attr("width", width)
     .attr("height", height);  
 
@@ -41,7 +41,7 @@ d3.json("/africa.json", function(error, africa) {
       return "SECMA-owned theaters in 1975: " + d.properties.SECMA
       }),
     d3.select("#cna-count").text(function(){
-      return "CNA Showings in 2016: " + d.properties.CNA
+      return "CNA Showings recorded on Twitter: " + d.properties.CNA
       })
   }).on("mouseout",
   function(){
