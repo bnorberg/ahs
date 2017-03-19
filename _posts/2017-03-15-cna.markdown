@@ -7,32 +7,32 @@ date:   2017-03-10 14:34:25
 tags: featured
 image: /assets/article_images/2017-03-15-cna/BET_ad.png
 author_image: /assets/article_images/2017-03-15-cna/fofana.jpg
+summary: Article about the development of and its role 
 ---
-#Presence of Cinema in West Africa
+##A Short History of West African Cinema
+<span class="laval"><img src="/assets/article_images/2017-03-15-cna/450px-Pierre_Laval_a_Meurisse_1931.jpg" alt="Pierre Laval, creator of the decree that severely limited Africans presence and participation in the motion picture industry throughout the 20th Century" align="right" /></span> The history of West African cinema is rooted in the tradition of European representation of Africans and their cultures. From the moment sound came to film (around 1927), the French, wary of its influential power, proactively took measures to control film production in their colonies. In 1934, then governor of the colonies, Pierre Laval, issued a decree that required filmmakers to get French government approval prior to filming in the colonies and banned Africans from making films about themselves. The long term effects of this decree are best quantified by film historian Georges Sadoul. 
+
+> In 1960, sixty-five years after the invention of motion pictures, there hasn't been, to my knowledge, a single feature film that is truly African; I mean a film that stars Africans, is cinematographed, written, directed, edited, etc., by blacks, and speaking, of course, an African language. Thus, two hundred million men have been denied the use of this most advanced of modern arts.<sup>1</sup>
+
+Sadoul believed this "scandoulous situation" would soon correct itself and become but "a bad memory". Yet despite the majority of the French African colonies gaining independence by 1960, and thus releasing filmakers from the paralyzing constraints of the Laval decree, feature films by Africans remained rare. Though freed from the colonial government policy that forbade their production, African feature films were now at the mercy French economic controls. Because local governments never made investing in cinema a priority and the French government, being so conscious of the persuasive power of the moving image, did, African filmmakers were forced to rely heavily on financial assistance from the French Ministry of Cooperation. And even if African filmakers could drum up the resources to produce their movies, distribution and exhibition remained the exclusive monopoly of two French companies, SECMA and COMACICO, that were too focused on their own fierce competiton over building movie theatres in urban areas across French-speaking West Africa to consider the circulation of works by African filmakers.
+
+###Presence of Cinema in West Africa
 <div id="mapone"></div>
 
 <ul class="info-box-1">
-	<h3 id="country-name"></h3>
+  <h3 id="country-name"></h3>
     <li>
       <span id="comacico-count"></span>
     </li>
      <li>
       <span id="secma-count"></span>
     </li>
-   	<li>
-   	  <span id="cna-count"></span> 
-   	</li>  
+    <li>
+      <span id="cna-count"></span> 
+    </li>  
 </ul> 
 
 ><strong>Instructions:</strong> Hover over each country for information about numbers of historical cinema and CNA showings. Click the three text links above to see how cinema is distributed throughout West Africa by each "distribution company".
-
-##A Short History of West African Cinema
-
-<span class="laval"><img src="/assets/article_images/2017-03-15-cna/450px-Pierre_Laval_a_Meurisse_1931.jpg" alt="Pierre Laval, creator of the decree that severely limited Africans presence and participation in the motion picture industry throughout the 20th Century" align="right" /></span> The history of West African cinema is rooted in the tradition of European representation of Africans and their cultures. From the moment sound came to film (around 1927), the French, wary of its influential power, proactively took measures to control film production in their colonies. In 1934, then governor of the colonies, Pierre Laval, issued a decree that required filmmakers to get French government approval prior to filming in the colonies and banned Africans from making films about themselves. The long term effects of this decree are best quantified by film historian Georges Sadoul. 
-
-> In 1960, sixty-five years after the invention of motion pictures, there hasn't been, to my knowledge, a single feature film that is truly African; I mean a film that stars Africans, is cinematographed, written, directed, edited, etc., by blacks, and speaking, of course, an African language. Thus, two hundred million men have been denied the use of this most advanced of modern arts.<sup>1</sup>
-
-Sadoul believed this "scandoulous situation" would soon correct itself and become but "a bad memory". Yet despite the majority of the French African colonies gaining independence by 1960, and thus releasing filmakers from the paralyzing constraints of the Laval decree, feature films by Africans remained rare. Though freed from the colonial government policy that forbade their production, African feature films were now at the mercy French economic controls. Because local governments never made investing in cinema a priority and the French government, being so conscious of the persuasive power of the moving image, did, African filmmakers were forced to rely heavily on financial assistance from the French Ministry of Cooperation. And even if African filmakers could drum up the resources to produce their movies, distribution and exhibition remained the exclusive monopoly of two French companies, SECMA and COMACICO, that were too focused on their own fierce competiton over building movie theatres in urban areas across French-speaking West Africa to consider the circulation of works by African filmakers.
 
 Throughout the sixties and early seventies, distribution and exhibition of cinema in French-speaking West Africa remained the monopoly of SECMA and COMACICO. As these companies continued to grow their desire for profits started a new implict ban on films being produced by Africans. In the eyes of SECMA and COMACICO, theater-goers did not like African films so they were not great enough revenue generators to put them in their cinemas. This hunger for money is what lead to some of the first real positive changes for African filmakers. On a holiday evening in 1969, SECMA and COMACICO unilaterally decided to jack up the entrance fees to cinemas in the Upper Volta (now Burkina Faso) that led to a major disagreement with the government and the eventual nationalization of all theatres in the country. Emboldened by the move of the Upper Volta government, filmmakers in other Francophone countries increased pressure on their government to follow the Upper Volta model, and they did. In Senegal, for instance, a national society called SIDEC replaced the French companies and expanded theatres to most secondary cities throughout the country. By 1975 Senegal had over 75 operational theatres nationwide. SIDEC became a major player in the economy in terms of income generation, and on a good year, it was second only to the Dakar international port.
 
