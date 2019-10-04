@@ -5,18 +5,19 @@ title:  "Cinema, CNA, and Identity Politics in West Africa"
 date:   2017-03-10 14:34:25
 <!---categories: mediator feature -->
 tags: featured
-image: /ahs/assets/article_images/2017-03-15-cna/BET_ad.png
-author_image: /ahs/assets/article_images/2017-03-15-cna/fofana.jpg
+image: /assets/article_images/2017-03-15-cna/BET_ad.png
+author_image: /assets/article_images/2017-03-15-cna/fofana.jpg
 summary: Article about the development of and its role 
 ---
-##A Short History of West African Cinema
+
+## A Short History of West African Cinema
 <span class="laval"><img src="/ahs/assets/article_images/2017-03-15-cna/450px-Pierre_Laval_a_Meurisse_1931.jpg" alt="Pierre Laval, creator of the decree that severely limited Africans presence and participation in the motion picture industry throughout the 20th Century" align="right" /></span> The history of West African cinema is rooted in the tradition of European representation of Africans and their cultures. From the moment sound came to film (around 1927), the French, wary of its influential power, proactively took measures to control film production in their colonies. In 1934, then governor of the colonies, Pierre Laval, issued a decree that required filmmakers to get French government approval prior to filming in the colonies and banned Africans from making films about themselves. The long-term effects of this decree are best quantified by film historian Georges Sadoul. 
 
 > In 1960, sixty-five years after the invention of motion pictures, there hasn't been, to my knowledge, a single feature film that is truly African; I mean a film that stars Africans, is cinematographed, written, directed, edited, etc., by blacks, and speaking, of course, an African language. Thus, two hundred million men have been denied the use of this most advanced of modern arts.<sup>1</sup>
 
 Sadoul believed this "scandalous situation" would soon correct itself and become but "a bad memory". Yet despite the majority of the French African colonies gaining independence by 1960, and thus releasing filmmakers from the paralyzing constraints of the Laval decree, feature films by Africans remained rare. Though freed from the colonial government policy that forbade their production, African feature films were now at the mercy French economic controls. Because local governments never made investing in cinema a priority and the French government, being so conscious of the persuasive power of the moving image, did, African filmmakers were forced to rely heavily on financial assistance from the French Ministry of Cooperation. And even if African filmmakers could drum up the resources to produce their movies, distribution and exhibition remained the exclusive monopoly of two French companies, SECMA and COMACICO, that were too focused on their own fierce competition over building movie theatres in urban areas across French-speaking West Africa to consider the circulation of works by African filmmakers.
 
-###Presence of Cinema in West Africa
+## Presence of Cinema in West Africa
 <div id="mapone"></div>
 
 <ul class="info-box-1">
@@ -40,7 +41,7 @@ Yet these acts to seize control of cinemas were not purely driven by economics. 
 
 However, these developments were short-lived. The implementation of the Structural Adjustment Programs mandated by the International Monetary Fund and the World Bank in the early 1980s forced heavily indebted governments, formerly referred to as the Third World, to privatize education, health, and culture (including cinema). This led to the immediate liquidation of SIDEC and sale of most theatres throughout West Africa to private entrepreneurs who had no vested interest in cinema and quickly transformed them into warehouses, shopping centers, and places of worship. By the mid-80s, there were almost no theatres left in West Africa. Although African filmmakers could still make movies, granted they were able scrounge up the money, these films could only be seen at festivals, which were often outside the filmmaker's country, inaccessible to their countrymen, and provided little economic or cultural benefit to Africans.
 
-##A Short History of Cinema Numerique Ambulant
+## A Short History of Cinema Numerique Ambulant
 
 The development and expansion of new communication technologies, such as cellular phones, digital cameras, email, and social media, has provided the logistical resources to resurrect another kind of cinema viewing experience prevalent in the mid-20th century in parts of West Africa. While the French were creating policies and developing distribution monopolies in their colonies, the British were using mobile cinema to spread public health awareness and British Empire propaganda in places like Nigeria and Ghana.<sup>2</sup>. It was this history that influenced French film technician, Christian Lambert, to co-found <a href="https://www.c-n-a.org/">Cinéma Numérique Ambulant (CNA)</a>, as means to reintroduce West Africans to motion pictures and their African film history.
 
@@ -60,7 +61,7 @@ These events are the only exposure to these Western technologies for some of the
 
 >Press the play button up above to see CNA showings posted on Twitter visualized over time. The cluster explosions at particular times display the 10 X 10 CNA schedule in action. Hit the pause button to stop the visualization once it has been started.
 
-##Conclusion
+## Conclusion
 
 <span class="sembene"><img src="/ahs/assets/article_images/2017-03-15-cna/sembene.jpg" alt="Image of Ousmane Sembene, the Senegalese author and pioneer of African cinema who payed an enormous role in producing movies that showed counternarratives of the African experience" align="right" /></span>Due to programs like VideoFada, CNA has begun to develop the most robust cinema education and production operation West Africa has ever seen. Not only does CNA work with local villages to expose them to storytelling and film, CNA also has an academy that trains locals to be future CNA facilitators and projectionists. Beyond offering locals much needed jobs, these programs provide basic education about cinema, its benefits, and the history of African filmmaking.
 
