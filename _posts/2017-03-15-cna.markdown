@@ -5,8 +5,8 @@ title:  "Cinema, CNA, and Identity Politics in West Africa"
 date:   2017-03-10 14:34:25
 <!---categories: mediator feature -->
 tags: featured
-image: ahs/assets/article_images/2017-03-15-cna/BET_ad.png
-author_image: ahs/assets/article_images/2017-03-15-cna/fofana.jpg
+image: /ahs/assets/article_images/2017-03-15-cna/BET_ad.png
+author_image: /ahs/assets/article_images/2017-03-15-cna/fofana.jpg
 summary: Article about the development of and its role 
 ---
 ##A Short History of West African Cinema
