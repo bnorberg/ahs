@@ -15,7 +15,7 @@ var svg = d3.select("#mapone").append("svg")
     .attr("width", width)
     .attr("height", height);  
 
-d3.json("/africa.json", function(error, africa) {
+d3.json("/ahs/africa.json", function(error, africa) {
   var subunits = topojson.feature(africa, africa.objects.subunits),
     places = topojson.feature(africa, africa.objects.places);
 
@@ -88,7 +88,7 @@ svg.append("path")
       .text(function(d) { return d.properties.NAME; })
  **/
 
-d3.json("/comacico.json", function(error, comacico) {
+d3.json("/ahs/comacico.json", function(error, comacico) {
   svg.append("g")
     .selectAll("path")
     .data( comacico.features )
@@ -119,7 +119,7 @@ svg.append("text")
   .text("COMACICO");
 });   
 
-d3.json("/secma.json", function(error, secma) {
+d3.json("/ahs/secma.json", function(error, secma) {
   svg.append("g")
     .selectAll("path")
     .data( secma.features )
@@ -150,7 +150,7 @@ svg.append("text")
   .text("SECMA");
 });   
 
-d3.json("/cna.json", function(error, cna) {
+d3.json("/ahs/cna.json", function(error, cna) {
   svg.append("g")
     .selectAll("path")
     .data( cna.features )

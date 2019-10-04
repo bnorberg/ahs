@@ -10,17 +10,17 @@ description: > # this means to ignore newlines until "email:"
 
 email: dhprojects@duke.edu
 #blog logo
-logo: "/assets/images/ahs.jpg"
+logo: "ahs/assets/images/ahs.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
 #cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
-cover: "/assets/images/header-bg.jpg"
+cover: "ahs/assets/images/header-bg.jpg"
 
 
 name: 'Duke Trinity Technology Services'
 author: 'Duke Trinity Technology Services'
-author_image: "/assets/images/norberg.jpg"
+author_image: "ahs/assets/images/norberg.jpg"
 
 paginate:	5
 
