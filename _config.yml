@@ -24,7 +24,7 @@ author_image: "/assets/images/norberg.jpg"
 
 paginate:	5
 
-url: "/" # the base hostname & protocol for your site
+url: "https://bnorberg.github.io" # the base hostname & protocol for your site
 baseurl: "/ahs"
 #used to display twitter cards
 twitter_handle: '@duke_dhi'
